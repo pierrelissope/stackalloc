@@ -1,6 +1,9 @@
 # Prerequisites
 *.d
 
+# Executables
+heap
+
 # Object files
 *.o
 *.ko
@@ -27,6 +30,9 @@
 *.so
 *.so.*
 *.dylib
+
+# Compilation files
+compile_flags.txt 
 
 # Executables
 *.exe
